@@ -8,6 +8,7 @@ public class SsampleTest {
 	@Test
 	public void Testcase1() {
 		System.out.println("Testcase1");
+		System.out.println("One more comment");
 	}
 	
 	@Test
